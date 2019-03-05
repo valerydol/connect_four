@@ -1,1 +1,2 @@
 This is simple game for two players , was written for a student project in C# course
+You can download  ( FourInLine.rar ) this project and try this game in 
